@@ -1,5 +1,7 @@
 message: hola mundo.
 
+url: jdbc:h2:file:c:/h2/bbdd
+
 eureka:
   client:
     serviceUrl:
