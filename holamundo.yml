@@ -1,5 +1,4 @@
-message: hola mundo de parte del tio facundo
-
+message: ay mama
 url: jdbc:h2:file:c:/h2/bbdd
 
 eureka:
