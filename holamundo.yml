@@ -1,5 +1,5 @@
 message: ay mama
-url: jdbc:h2:file:c:/h2/bbdd
+url: jdbc:h2:file:c:/h2/bbdd2
 
 eureka:
   client:
