@@ -1,4 +1,4 @@
-message: fistro pecador
+message: mensaje aburrido
 url: jdbc:h2:file:c:/h2/bbdd5
 
 eureka:
