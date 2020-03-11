@@ -1,4 +1,4 @@
-message: A ver que pasa
+message: uno dos tres
 url: jdbc:h2:file:c:/h2/bbdd5
 
 eureka:
