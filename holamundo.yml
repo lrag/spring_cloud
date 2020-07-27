@@ -1,7 +1,5 @@
-message: siete caballos vienen de Bonanza
-url: jdbc:h2:file:c:/h2/bbdd5
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8084/eureka/
+mensaje: uno dos tres    
+
+url_bbdd: jdbc:h2:file:c:/h2/cursoSpringCloud
+
