@@ -1,7 +1,7 @@
 server:
   port: 8280
 
-mensaje: "¡HOLA mundo!"    
+mensaje: "¡HOLA mundo!"
 
 url_bbdd: jdbc:h2:file:c:/h2/cursoSpringCloud
 
